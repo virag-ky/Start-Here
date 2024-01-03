@@ -23,7 +23,7 @@ ___
 
 In this section, I will provide you with links essential for understanding how the web or the internet works. It is a lot of reading but you should understand them before we dive more deeply into web development.
 
-### Readings
+### 📖 Readings
 
 * [How the web works?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#packets_explained)
 * [How does the internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work) (please, in the *Active learning* section watch those 2 short videos so at least you can visualize how the things work) 
@@ -31,7 +31,7 @@ In this section, I will provide you with links essential for understanding how t
 * [How does the DNS request work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name) (you don't have to read the whole page for now, scroll to the section where it says: How does the DNS request work)
 * [Computer basics](https://edu.gcfglobal.org/en/computerbasics/) (for people who are new to computers and technology)
 
-### Videos
+### 📺 Videos
 * [What is the World Wide Web?](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 * [A packet's tale. How does the internet work?](https://www.youtube.com/watch?v=ewrBalT_eBM)
 * [Computer and technology basics for absolute beginners](https://www.youtube.com/watch?v=y2kg3MOk1sY) (for people who are new to computers and technology)
@@ -41,11 +41,11 @@ ___
 Code editors will be your main tool to work with.
 Feel free to use any code/text editor you want but I prefer VSCode (Visual Studio Code - free and open-source). At this point, the most important thing is to install it on your computer and to know how to open it and navigate through it.
 
-### Readings
+### 📖 Readings
 * [The Odin Project - Text editors](https://www.theodinproject.com/lessons/foundations-text-editors) (on this page you will find the installation of VSCode depending on which OS (operating system) you are using)
 * [Visual Studio Code official website](https://code.visualstudio.com/) (optional, feel free to check out the docs)
 
-### Videos
+### 📺 Videos
 * [Visual Studio Code for beginners](https://www.youtube.com/watch?v=UTQp6mvhb0Y&t=108s) (optional)
 
 ### Other editors
@@ -56,11 +56,11 @@ ___
 
 The terminal/command line is another important tool that you need to know how to use. At this point, the most important thing is to know where to find the terminal on your computer and to know how to open it. Please, read the link below, as it will tell you where to find the terminal depending on which OS you are using.
 
-### Readings
+### 📖 Readings
 * [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) (read until the *Introducing command options* section)
 * [The command line](https://launchschool.com/books/command_line/read/introduction) (feel free to experiment with the exercises in this book, but also read it if you are new to the command line)
 
-### Videos
+### 📺 Videos
 * [Command line crash course for beginners](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 ___
 ![Add a heading (6)](https://github.com/virag-ky/Start-Here/assets/79658534/353014e4-9645-4492-8f33-f6ac1614db9b)
@@ -73,10 +73,10 @@ ___
 
 **Full-stack**: Represents both front-end and back-end.
 
-### Readings
+### 📖 Readings
 * [Front-end vs back-end: What's the difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
 
-### Videos
+### 📺 Videos
 * [Front-end vs back-end: What's the difference?](https://www.youtube.com/watch?v=1mXrxc_sv1o)
 ___
 ![Add a heading (7)](https://github.com/virag-ky/Start-Here/assets/79658534/8f4ef7b5-1929-4c5c-aa9c-7907d42d8399)
@@ -111,10 +111,11 @@ If you get stuck with your code then you should try to find the answer on Google
 
 **Never run to another developer and ask for something that you can find on Google by yourself!**
 
-### Videos
+### 📺 Videos
 * [How to 'Google it' like a senior software engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
-### Discord
+### <img width="25" height="20" src="https://github.com/virag-ky/Start-Here/assets/79658534/3047787f-a20d-4c27-b012-2ca5c79d7396"> Discord
+
 * [Code with Virag](https://discord.gg/TRqjXhyM ) (in the *coding-help* channel you can ask for help)
 
     * When you are asking for help in our channel, make sure to mention what the problem is, and what things have you tried so far to solve the problem, and maybe attach a file or a screenshot.
