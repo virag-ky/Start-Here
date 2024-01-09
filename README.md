@@ -116,7 +116,7 @@ If you get stuck with your code then you should try to find the answer on Google
 
 ### <img width="25" height="20" src="https://github.com/virag-ky/Start-Here/assets/79658534/3047787f-a20d-4c27-b012-2ca5c79d7396"> Discord
 
-* [Code with Virag](https://discord.gg/TRqjXhyM ) (in the *coding-help* channel you can ask for help)
+* [Code with Virag](https://discord.gg/ywzfqsRkV6) (in the *coding-help* channel you can ask for help)
 
     * When you are asking for help in our channel, make sure to mention what the problem is, and what things have you tried so far to solve the problem, and maybe attach a file or a screenshot.
 
