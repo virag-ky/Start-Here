@@ -65,7 +65,6 @@ The terminal/command line is another important tool that you need to know how to
 ___
 ![Add a heading (6)](https://github.com/virag-ky/Start-Here/assets/79658534/353014e4-9645-4492-8f33-f6ac1614db9b)
 
-*Code with Virag* focuses on web development and during your coding journey you will hear or come across the words, front-end or back-end. We will start our journey with the front-end.
 
 **Front-end**: What we see in the browser, the client side. The code we write visually gets presented in the browser. Consists of 3 main languages: HTML, CSS, and JavaScript.
 
@@ -81,10 +80,7 @@ ___
 ___
 ![Add a heading (7)](https://github.com/virag-ky/Start-Here/assets/79658534/8f4ef7b5-1929-4c5c-aa9c-7907d42d8399)
 
-In this section, I will share some learning tips so you can stay on track with your journey. But before that, let me tell you what I've been doing since I started my journey:
-
-> *I started my coding journey at the end of 2021. In 3 months I learned the basics of HTML, CSS, and JavaScript, then in February of 2022, I joined an online boot camp. The learning pace was really fast and I had to take breaks between the modules, I learned HTML, CSS, JavaScript, React, Redux, PostgreSQL, and Ruby there. I didn't finish the boot camp, I quit for several reasons. I started looking for jobs but I wasn't consistent with my job search and besides this, I was building side projects and started to learn NodeJS with Express. I was also mentoring a few people during this time. So at the end of 2023, I started to be consistent in my job search but I still wasn't sure if I wanted to work for a company full-time or do freelancing. During these 2 years, several people asked me why am I not making videos and now here at home they also asked me, so in December of 2023 I decided to create a YouTube channel to teach beginners to code. So now here I am creating content for you.* 😊
-
+In this section, I will share some learning tips so you can stay on track with your journey.
 ### Tips:
 1. **Don't rush! Never...seriously.**
 
@@ -99,26 +95,21 @@ So just don't feel bad to take a day or days off from your journey because every
 3. **Practice**
 
 Practice makes ~perfect~ better! 
-Practicing what you have learned will stick to your mind better. At *Code with Virag*, we will aim to be better and better each day and not aim for pure perfection. After each video, I will give homework (which I prepare myself) so you can practice what we have learned on that day. I'm also practicing every day, I'm doing daily front-end challenges on [iCodeThis](https://iCodeThis.com/?ref=virag) and we will do practice challenges together from here.
+Practicing what you have learned will stick to your mind better. It would be best if you aimed to improve each day and not aim for pure perfection.
 
 4. **Read the documentation**
    
-When you learn something new, the official documentation should be your best friend. They are written for a reason, never skip them. Reading them, you will learn a lot about the language or framework/library. You can't just jump into coding and not read the documentation. In every video description, I will provide links to the documentation.
+When you learn something new, the official documentation should be your best friend. They are written for a reason, never skip them. Reading them, you will learn a lot about the language or framework/library. You can't just jump into coding and not read the documentation.
 ___
 ![Add a heading (8)](https://github.com/virag-ky/Start-Here/assets/79658534/4c4ca36b-be97-4697-a435-0a425b2e90f6)
 
-If you get stuck with your code then you should try to find the answer on Google first. Also, I'm sharing our Discord link here so you can join the community and when you get stuck just go to the *coding-help* channel and ask for help.
+If you get stuck with your code then you should try to find the answer on Google first.
 
 **Never run to another developer and ask for something that you can find on Google by yourself!**
 
 ### 📺 Videos
 * [How to 'Google it' like a senior software engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
-### <img width="25" height="20" src="https://github.com/virag-ky/Start-Here/assets/79658534/3047787f-a20d-4c27-b012-2ca5c79d7396"> Discord
-
-* [Code with Virag](https://discord.gg/ywzfqsRkV6) (in the *coding-help* channel you can ask for help)
-
-    * When you are asking for help in our channel, make sure to mention what the problem is, and what things have you tried so far to solve the problem, and maybe attach a file or a screenshot.
 
 ### Other
 * [ChatGPT](https://chat.openai.com/) (this should be your last option to turn to, it can be helpful sometimes when you are trying to debug your code but it can give you false results sometimes so just be aware of that)
